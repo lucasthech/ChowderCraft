@@ -1,0 +1,12 @@
+option.SCREEN_GRID_SIZE = Screen Grid Size
+option.SCREEN_GRID_SIZE.comment = \nSize of the on-screen block grid\n \nChange it to make blocks look smaller or bigger
+option.BLOCKS_PER_ROW = Texture Grid Size
+option.BLOCKS_PER_ROW.comment = \nSize of the texture from the texture atlas.\n \nChanging this will show multiple block textures per block.\n \nTHIS OPTION IS JUST FOR FUN, IT WILL MAKE THE GAME EVEN MORE UNPLAYABLE
+
+value.BLOCKS_PER_ROW.64 = §bDefault§r [1x1]
+value.BLOCKS_PER_ROW.32 = §aConfusing§r [2x2]
+value.BLOCKS_PER_ROW.16 = §2Weird§r [4x4]
+value.BLOCKS_PER_ROW.8 = §eInsane§r [8x8]
+value.BLOCKS_PER_ROW.4 = §6Psychopatic§r [16x16]
+value.BLOCKS_PER_ROW.2 = §cMY EYES§r [32x32]
+value.BLOCKS_PER_ROW.1 = §4WHAT HAVE YOU DONE?§r [64x64]

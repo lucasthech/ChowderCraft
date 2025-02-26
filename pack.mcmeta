@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "A simple shader that applies a screen-space static texture effect to all blocks."
+  }
+}
